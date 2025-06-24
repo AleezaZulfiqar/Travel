@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Trektrips/static/css/main.f05b8ac8.css",
+    "main.js": "/Trektrips/static/js/main.b096bb66.js",
+    "static/js/453.e357f459.chunk.js": "/Trektrips/static/js/453.e357f459.chunk.js",
+    "static/media/hero.jpg": "/Trektrips/static/media/hero.360f65ee8258350a2484.jpg",
+    "static/media/friends.png": "/Trektrips/static/media/friends.c0d09553ea3602f47330.png",
+    "static/media/main.png": "/Trektrips/static/media/main.ec3eb636b6640ec4d908.png",
+    "static/media/iceland.png": "/Trektrips/static/media/iceland.88411d3948e8d51cd56a.png",
+    "static/media/halong.png": "/Trektrips/static/media/halong.9a17f2c0ff8813b16d68.png",
+    "static/media/french.png": "/Trektrips/static/media/french.d2fa3d88f279cf8baa4c.png",
+    "static/media/sea.png": "/Trektrips/static/media/sea.3c2ee1f671db60fd66e6.png",
+    "static/media/popular.png": "/Trektrips/static/media/popular.5a536b673e8180fd2849.png",
+    "static/media/tent.png": "/Trektrips/static/media/tent.22bbf4a1b7a2f9c89f87.png",
+    "static/media/climb.png": "/Trektrips/static/media/climb.29a7a0a8e9c343c03fd1.png",
+    "static/media/camp.png": "/Trektrips/static/media/camp.b2c8ab74568f223c6173.png",
+    "static/media/trailer.png": "/Trektrips/static/media/trailer.2e0dcab4e8a2704452f3.png",
+    "index.html": "/Trektrips/index.html",
+    "main.f05b8ac8.css.map": "/Trektrips/static/css/main.f05b8ac8.css.map",
+    "main.b096bb66.js.map": "/Trektrips/static/js/main.b096bb66.js.map",
+    "453.e357f459.chunk.js.map": "/Trektrips/static/js/453.e357f459.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f05b8ac8.css",
+    "static/js/main.b096bb66.js"
+  ]
+}
